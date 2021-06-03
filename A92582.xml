@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters and papers from the Committee of Estates and Commissioners of Scotland, concerning the Kings comming into the Scottish armie: and his Maiesties giving his consent to the surrender of Newarke to the Parliament. Dated the 7th and 8th of this instant May 1646. Commanded to be forthwith printed and published.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92582</idno><idno type="EEBO-CITATION">99861456</idno>
+  <idno type="VID">113593</idno>
+  <idno type="EEBO-PROQUEST">2248539648</idno>
+  
+            <idno type="STC">Wing S1290</idno>
+            <idno type="STC">Thomason E337_6</idno>
+            <idno type="STC">ESTC R200821</idno>
+            <idno type="PROQUEST">99861456</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861456e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113593)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters and papers from the Committee of Estates and Commissioners of Scotland, concerning the Kings comming into the Scottish armie: and his Maiesties giving his consent to the surrender of Newarke to the Parliament. Dated the 7th and 8th of this instant May 1646. Commanded to be forthwith printed and published.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for L. Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained.</note>
+                  <note>Annotation on Thomason copy: "May 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Army --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Newark (Nottinghamshire, England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113593:1"/>
+            <p>LETTERS AND PAPERS From the Committe of Estates, and Commissioners of SCOTLAND, Concerning the KINGS comming into the Scottish ARMIE: And His MAIESTIES Giving His Consent to the Surrender of <hi>Newarke</hi> to the <hi>PARLJAMENT.</hi>
+            </p>
+            <p>Dated the 7th and 8th of this instant <hi>May</hi> 1646.</p>
+            <p>Commanded to be forthwith printed and Published.</p>
+            <p>
+               <add>may. 9<seg rend="sup">th</seg>
+               </add> London printed for <hi>L. Chapman,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113593:2"/>
+            <pb facs="tcp:113593:2"/>
+            <head>
+               <figure>
+                  <figDesc>Tudor rose surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Scottish thistle surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Irish harp surmounted by a crown</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>French fleur-de-lis surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aveing received no other Adver<g ref="char:EOLhyphen"/>tisment, neither from the Com<g ref="char:EOLhyphen"/>mittee of Estates at the Scottish Army, nor by any other way, but that wee heare this after<g ref="char:EOLhyphen"/>noone that Letters are come to the Honorable Houses, giving notice that the King is come in to the Scottish army neere Newarke. Wee have Iudged it incombent to us to represent to the Honorable Houses, that if his Maiestie be gon thither: we are verie confident that the Lord Generall and Committee with that army from whom we look to heare speedily, will doe that which beseemes their places and Trust for the good of both Kingdomes, accor<g ref="char:EOLhyphen"/>ding
+<pb n="4" facs="tcp:113593:3"/> to the conditions of the mutuall Covenant and Treaty betweene the Nations: and wee doe desire that by common advice; the present opportunitie may be improved for setling of Religion and the peace of both Kingdomes, which as it hath alwayes been, so is it now and shall ever bee, the earnest desire and con<g ref="char:EOLhyphen"/>endeavour of</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordships affectionate friends and humble servants</hi>
+                  <list>
+                     <item>Lowdon,</item>
+                     <item>Landerdaill,</item>
+                     <item>A: Jonston,</item>
+                     <item>Charles Erskine.</item>
+                     <item>Hugh Kennedy.</item>
+                     <item>Rob. Barclay.</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <date>May 6. 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honourable the <hi>Speaker</hi> of the House of Peeres <hi>pro tempore.</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:113593:3"/>
+            <p>THe letter from the Committee of Estates of the Kingdome of <hi>Scotland</hi> residing with the Scottish Army directed to the Commissioners of both Houses, and their Letters to the Committe of both Kingdoms which we have received this morning we are confident will give full satisfaction to the Honourable Houses; That his Majesties comming to their Quarters was un<g ref="char:EOLhyphen"/>expected, and their perswading him to give their con<g ref="char:EOLhyphen"/>sent to the surrender of Newark to the Committee of both Kingdomes for the use of the Parliament, will we doubt not, be taken by the Houses as a sufficient testimony of their faithfullnesse and the sincerity of their intentions and resolutions, which we are perswa<g ref="char:EOLhyphen"/>ded in our hearts are no other then they have bin from the beginning of this Cause to the prosecuting where<g ref="char:EOLhyphen"/>of according to the Covenant and Treaty for the mu<g ref="char:EOLhyphen"/>tuall good of both Kingdomes, they have and ever will limit themselves in all their endeavours.</p>
+            <p>The earnest desire wee have accordinging to our Commission and the trust reposed in us to prevent all misunderstandings betweene these Kingdomes so hap<g ref="char:EOLhyphen"/>pily conjoyned, and so neerely tyed by the solemne League and Covenant, hath enforced us to make knowne to the honourable Houses what we heare com<g ref="char:EOLhyphen"/>monly reported concerning 5000. horse and Dragoones to have beene yesternight as farre as Bamberry upon their March towards Newarke, notwithstanding it is
+<pb n="6" facs="tcp:113593:4"/> every where knowne that Garrison upon a Treaty, and is now to be surrendred to morrow to the Commissio<g ref="char:EOLhyphen"/>ners of Parliament, and none of the Scottish forces to be placed there, which being considered and that there is no force of the enemy in those parts, We do earnest<g ref="char:EOLhyphen"/>ly desire that the honourable houses would bee pleased to cause stop their March, and to prevent every thing which may give just cause of jealousie, or any wise wea<g ref="char:EOLhyphen"/>ken the good correspondence, or lessen the confidence that is betweene the Kingdomes. And as the Com<g ref="char:EOLhyphen"/>mittee of the Army hath declared that they are free of all capitulations or Treaties with his Majesty. So we do for our parts declare the same to the honourable houses and to all the world, And that his comming to that Ar<g ref="char:EOLhyphen"/>my was strange and unexpected to us, whereof we never heard till the Letters came to the Houses from their Commissioners upon the 6th. of this instant, And wee do solemnely protest and assure that it is our firme and constant resolution never to swerve in the least, from the Covenant and Treaty, but to apply our thoughts by joynt advice to do every thing which may procure and settle a happie and well-grounded peace.</p>
+            <closer>
+               <signed>By Command of the Commissioners for the Parliament of Scot<g ref="char:EOLunhyphen"/>land. Io. Cheisley.</signed>
+               <dateline>
+                  <date>8 May. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:113593:4"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THe earnest desire which we have to keep <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> righ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> understand<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng betweene the 2 Kingdoms moves us to acquaint you with that strange Providence where<g ref="char:EOLhyphen"/>with wee are now surprized together with our cariage and desires thereupon. The King came into our Army yesterday in so private a way, that after wee had made search for him (upon the surmises of some persons who pretended to know his face) yet we could not finde him out in sundry houses, And wee believe Your Lord<g ref="char:EOLhyphen"/>ships will thinke it was matter of much astonishment to us, eeing we did not expect he would have come into any place under our power, Wee conceaved it not fit to enquire into the causes that perswaded him to come hither: But to endeavour that his being here might bee improved to the best advantage for promoting the work of Uniformity, for setling of Religion and Righ<g ref="char:EOLhyphen"/>teousnesse, and attaining of Peace according to the League and Covenant, and Treaty by the advice of the Parliaments of both Kingdomes, or their Commissio<g ref="char:EOLhyphen"/>ners authorized for that effect. Trusting to our Integri<g ref="char:EOLhyphen"/>tie, wee doe perswade our selves that none will so farre misconst<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r us, as that wee intended to make use of this seeming advantage for promoting any other ends then are expressed in the Covenant, and have been hither to pursued by us, with no lesse Conscience then care. And yet for the further satisfaction wee doe ingeniously de<g ref="char:EOLhyphen"/>clare, that there hath bin no Treaty nor Capitulation
+<pb n="8" facs="tcp:113593:5"/> betwixt His Majesty and us nor any in <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> And that wee leave the wayes and meanes of Peace un<g ref="char:EOLhyphen"/>to the power and wisdome of the Parliaments of t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdomes. And so farre as concernes us, as we have a witnesse in Heaven, wee are confident to make it ap<g ref="char:EOLhyphen"/>peare to the world, that there is nothing more in our desires, then in all our resolutions and proceedings to adheire to the Covenant and Treaty. Our gravest thoughts shall be taken up in studying, and our utmost abilities imployed in acting those things that may best advance the publike good and common happinesse of both Kingdoms, wherein by the help of the most high wee shall labour to use so much tendernesse and care, that wee hope it shall soone appeare, our actions have beene the issue and result of honest and single intenti<g ref="char:EOLhyphen"/>ons, And further we cannot (in a matter of so deepe consequence and common interest) but seeke Your Lordships advice, for which effect we have also written to the Committee of estates of <hi>Scotland</hi> with intention to move by Your joynt Councells and resolutions, that we at last after so bitter a seed time of many afflictions, We may reap the sweet fruits of Truth and Peace, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in this confidence We</p>
+            <closer>
+               <signed>Your Lordships humble Servants,
+<list>
+                     <item>
+                        <hi>Leven,</hi>
+                     </item>
+                     <item>
+                        <hi>Dunfermling,</hi>
+                     </item>
+                     <item>
+                        <hi>Lothian.</hi>
+                     </item>
+                     <item>
+                        <hi>Balcarris,</hi>
+                     </item>
+                     <item>
+                        <hi>S. D.</hi>
+                     </item>
+                     <item>
+                        <hi>H<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>me.</hi>
+                     </item>
+                     <item>
+                        <hi>S. Th: Carr<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </item>
+                     <item>
+                        <hi>R.</hi> of <hi>Freeland.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Glendonyn.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Iohnston.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>Southwell <date>6. May 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honourable the Committee of both KINGDOMES.</trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
